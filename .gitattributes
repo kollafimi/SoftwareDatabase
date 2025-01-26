@@ -1,3 +1,5 @@
 # Установить LF для всех C/C++ файлов, чтобы избежать проблем на Linux/Mac
 *.c text eol=lf
 *.h text eol=lf
+sqlite3.c linguist-vendored
+sqlite3.h linguist-vendored
